@@ -1,4 +1,4 @@
-class toolname::install (
+class toolname::executeinstall (
   $archive_name        = 'installation.zip',
 ){
   $repository_url      = 'https://repo/artifactory/toolname/agents'

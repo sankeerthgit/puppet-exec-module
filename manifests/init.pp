@@ -1,3 +1,3 @@
 class toolname {
-  include tidal::install
+  include tidal::executeinstall
 }
